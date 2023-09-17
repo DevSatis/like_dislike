@@ -1,4 +1,6 @@
 # React + Vite
+Step 1: To run the project 1st do npm install
+Step 2: npm run dev
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
